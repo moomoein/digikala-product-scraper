@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/moomoein/digikala-product-scraper?style=social)
+![License](https://img.shields.io/github/license/moomoein/digikala-product-scraper)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
+
 # 🧠 Digikala Product Scraper (WooCommerce Ready)
 
 A **professional modular Python scraper** for [Digikala](https://www.digikala.com/) API that extracts all product details — including variants, prices, images, attributes, and categories — into **WooCommerce-ready JSON**.
