@@ -2,8 +2,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green) 
 ![Stars](https://img.shields.io/github/stars/moomoein/digikala-product-scraper?style=social)
 
-
-<img style="border-radius: 1em;overflow: hidden;display: flex;outline: 3px solid #3572a5;box-shadow: 0px 10px 20px -14px #3572a5;" width="100%" height="736" alt="Terminal demo showing the scraper extracting Digikala products" src="https://github.com/user-attachments/assets/e238cf7a-6f4e-474a-8c29-9afbf23f61dc" />
+<div style="border-radius: 1em;overflow: hidden;display: flex;outline: 3px solid #3572a5;box-shadow: 0px 10px 20px -14px #3572a5;">
+   <img width="100%" height="736" alt="Terminal demo showing the scraper extracting Digikala products" src="https://github.com/user-attachments/assets/e238cf7a-6f4e-474a-8c29-9afbf23f61dc" /> 
+</div>
 
 # 🧠 Digikala Product Scraper (WooCommerce Ready)
 
