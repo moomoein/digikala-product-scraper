@@ -20,6 +20,6 @@ A **professional modular Python scraper** for [Digikala](https://www.digikala.co
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/digikala-product-scraper.git
+git clone https://github.com/moomoein/digikala-product-scraper.git
 cd digikala-product-scraper
 pip install requests
