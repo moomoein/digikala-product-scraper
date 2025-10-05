@@ -3,6 +3,8 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 
+<img width="100%" height="736" alt="Terminal demo showing the scraper extracting Digikala products" src="https://github.com/user-attachments/assets/e238cf7a-6f4e-474a-8c29-9afbf23f61dc" />
+
 # 🧠 Digikala Product Scraper (WooCommerce Ready)
 
 A **professional modular Python scraper** for [Digikala](https://www.digikala.com/) API that extracts all product details — including variants, prices, images, attributes, and categories — into **WooCommerce-ready JSON**.
