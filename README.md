@@ -1,6 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/moomoein/digikala-product-scraper?style=social)
-![License](https://img.shields.io/github/license/moomoein/digikala-product-scraper)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue) 
+![License](https://img.shields.io/badge/license-MIT-green) 
+![Stars](https://img.shields.io/github/stars/moomoein/digikala-product-scraper?style=social)
 
 
 <img width="100%" height="736" alt="Terminal demo showing the scraper extracting Digikala products" src="https://github.com/user-attachments/assets/e238cf7a-6f4e-474a-8c29-9afbf23f61dc" />
